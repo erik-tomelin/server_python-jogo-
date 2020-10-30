@@ -1,0 +1,9 @@
+adivinhar numero
+
+tic-toc-toe
+
+pedra, papel, tesoura
+
+Batalha com bonequinho
+
+jogo da memória
